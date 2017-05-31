@@ -1,0 +1,24 @@
+ul li {
+	list-style: none;
+	display: inline-block;
+	margin: 20px;
+	font-weight: bold;
+	font-size: 30px;
+}
+.form{
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+ul{
+	display: block;
+	width: 100%;
+}
+ul:hover ,li:hover {
+	text-decoration: none;
+}
+form{
+}
+label{
+	width: 200px;
+}
